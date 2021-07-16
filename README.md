@@ -2,7 +2,7 @@
 - 👀 I’m interested in Embedded Systems and VLSI Design
 - 🌱 I’m currently learning VHDL
 - 💞️ I’m currently working with GalaxEye Space
-- 📫 How to reach me shashank@smail.iitm.ac.in
+- 📫 Reach me at shashank@smail.iitm.ac.in
 
 <!---
 shashanknag/shashanknag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
