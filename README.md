@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @shashanknag
-- 💞️ I’m a Junior Undergraduate at IIT Madras
-- 👀 I’m interested in Analog Systems, Signal Processing and VLSI Design
-- 🌱 I’m currently learning Bluespec SystemVerilog
+- 💞️ I’m a Junior Undergraduate at Indian Institute of Technology Madras
 
 <!---
 shashanknag/shashanknag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
