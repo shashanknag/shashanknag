@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shashanknag
-- 💞️ I’m a Junior Undergraduate at Indian Institute of Technology Madras
+- 💞️ I’m a Senior Undergraduate at Indian Institute of Technology Madras
 
 <!---
 shashanknag/shashanknag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
